@@ -2,10 +2,10 @@
 
 
 
-This site is for a restaurant. 
+This site can be used for a restaurant and has been made with a Bootstrap template called Foodlanding.
 
 ![ScreenShot](Capture.png)
 
-It has been made with a Bootstrap template Foodlanding.
+
 
 
