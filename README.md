@@ -4,7 +4,7 @@
 
 This site is for a restaurant. 
 
-![Uploading Capture.png…]()
+![ScreenShot](Capture.png)
 
 It has been made with a Bootstrap template Foodlanding.
 
